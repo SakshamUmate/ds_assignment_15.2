@@ -1,0 +1,67 @@
+2024-01-04 16:13:20,617 root INFO Making an instance of flask class
+2024-01-04 16:13:20,618 root INFO binded url with home page
+2024-01-04 16:14:05,871 root INFO Making an instance of flask class
+2024-01-04 16:14:05,872 root INFO binded url with home page
+2024-01-04 16:15:02,132 root INFO Making an instance of flask class
+2024-01-04 16:15:02,133 root INFO binded url with home page
+2024-01-04 16:20:20,993 root INFO Making an instance of flask class
+2024-01-04 16:20:20,994 root INFO binded url with home page
+2024-01-04 16:20:21,033 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.106.8.226:5000
+2024-01-04 16:20:21,033 werkzeug INFO [33mPress CTRL+C to quit[0m
+2024-01-04 16:20:36,163 root INFO runing an API 
+2024-01-04 16:21:05,371 root INFO Making an instance of flask class
+2024-01-04 16:21:05,372 root INFO binded url with home page
+2024-01-04 16:21:05,390 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.106.8.226:5000
+2024-01-04 16:21:05,390 werkzeug INFO [33mPress CTRL+C to quit[0m
+2024-01-04 16:21:17,354 werkzeug INFO 127.0.0.1 - - [04/Jan/2024 16:21:17] "GET / HTTP/1.1" 200 -
+2024-01-04 16:21:17,470 werkzeug INFO 127.0.0.1 - - [04/Jan/2024 16:21:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-01-04 16:21:48,493 werkzeug INFO 127.0.0.1 - - [04/Jan/2024 16:21:48] "GET / HTTP/1.1" 200 -
+2024-01-04 16:22:03,690 root INFO runing an API 
+2024-01-04 16:33:04,460 root INFO Making an instance of flask class
+2024-01-04 16:33:04,472 root INFO binded url with home page
+2024-01-04 16:33:04,530 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.106.8.226:5000
+2024-01-04 16:33:04,530 werkzeug INFO [33mPress CTRL+C to quit[0m
+2024-01-04 16:33:20,364 werkzeug INFO 127.0.0.1 - - [04/Jan/2024 16:33:20] "GET / HTTP/1.1" 200 -
+2024-01-04 16:33:39,607 root INFO runing an API 
+2024-01-04 16:53:39,734 root INFO Making an instance of flask class
+2024-01-04 16:53:39,734 root INFO Using home page
+2024-01-04 16:53:39,744 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.106.8.226:5000
+2024-01-04 16:53:39,745 werkzeug INFO [33mPress CTRL+C to quit[0m
+2024-01-04 16:55:44,884 werkzeug INFO 127.0.0.1 - - [04/Jan/2024 16:55:44] "[31m[1mGET /postman_test HTTP/1.1[0m" 405 -
+2024-01-04 16:56:11,995 werkzeug INFO 127.0.0.1 - - [04/Jan/2024 16:56:11] "POST /postman_test HTTP/1.1" 200 -
+2024-01-04 16:57:15,590 werkzeug INFO 10.106.8.226 - - [04/Jan/2024 16:57:15] "GET / HTTP/1.1" 200 -
+2024-01-04 16:57:15,758 werkzeug INFO 10.106.8.226 - - [04/Jan/2024 16:57:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-01-04 16:59:05,162 root INFO runing an API 
+2024-01-04 17:06:57,886 root INFO Making an instance of flask class
+2024-01-04 17:06:57,887 root INFO Using home page
+2024-01-04 17:06:57,906 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.106.8.226:5000
+2024-01-04 17:06:57,906 werkzeug INFO [33mPress CTRL+C to quit[0m
+2024-01-04 17:07:06,746 werkzeug INFO 127.0.0.1 - - [04/Jan/2024 17:07:06] "GET / HTTP/1.1" 200 -
+2024-01-04 17:08:10,479 werkzeug INFO 127.0.0.1 - - [04/Jan/2024 17:08:10] "POST /postman_test HTTP/1.1" 200 -
+2024-01-04 17:08:19,376 werkzeug INFO 127.0.0.1 - - [04/Jan/2024 17:08:19] "POST /postman_test HTTP/1.1" 200 -
+2024-01-04 17:08:57,848 root INFO runing an API 
+2024-01-04 17:08:57,848 root INFO Mission_Successful!
+2024-01-04 17:09:25,600 root INFO Making an instance of flask class
+2024-01-04 17:09:25,600 root INFO Using home page
+2024-01-04 17:09:25,613 werkzeug INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.106.8.226:5000
+2024-01-04 17:09:25,613 werkzeug INFO [33mPress CTRL+C to quit[0m
+2024-01-04 17:09:28,656 root INFO runing an API 
+2024-01-04 17:09:28,656 root INFO Mission_Successful!
